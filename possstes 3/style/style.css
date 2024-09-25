@@ -1,9 +1,0 @@
-body
-{
-    width: 100%;
-    height: 400px; /* Anda dapat menyesuaikan tinggi elemen */
-    background-image: url(img/beach.png);
-    background-size: contain; /* Gambar akan sesuai dengan ukuran elemen */
-    background-position: center;
-    background-repeat: no-repeat;
-}
